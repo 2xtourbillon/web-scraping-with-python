@@ -1,1 +1,1 @@
-print("hello pyc")
+print("hello new intrprtr")
